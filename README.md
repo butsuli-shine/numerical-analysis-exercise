@@ -6,5 +6,7 @@
 ## 実行環境
 
 WSL2 Ubuntu 20.04 LTS
-M1 Mac Bigsur 
+
+M1 Mac Bigsur
+
 gcc 5.5.0
